@@ -1,6 +1,6 @@
 {
-  "name": "fast-cache",
-  "version": "0.0.1",
+  "name": "fast-cache-npm",
+  "version": "0.0.2",
   "description": "短小精悍的前端缓存工具，防止内存“侧漏”",
   "main": "src/index.js",
   "scripts": {

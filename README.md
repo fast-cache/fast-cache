@@ -8,6 +8,7 @@
 
 ## 安装下载
 
+- 下载地址 https://github.com/fast-cache/fast-cache/releases
 
 ## 快速使用
 
