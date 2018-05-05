@@ -1,0 +1,33 @@
+{
+  "name": "fast-cache",
+  "version": "0.0.1",
+  "description": "短小精悍的前端缓存工具，防止内存“侧漏”",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "webpack",
+    "example": "http-server -p 8880"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fast-cache/fast-cache.git"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "author": "https://github.com/fast-cache",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fast-cache/fast-cache/issues"
+  },
+  "homepage": "https://github.com/fast-cache/fast-cache#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "webpack": "^4.7.0",
+    "webpack-cli": "^2.1.2"
+  }
+}
